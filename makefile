@@ -50,7 +50,7 @@ GENDIR = $(BUILDDIR_ABSOLUTE)/gens
 # Configurations
 
 VALID_CONFIG_opt = 1
-CC_opt = $(DEFAULT_CC)
+CC_opt = $(DEFAULT_CC) -std=c99
 CXX_opt = $(DEFAULT_CXX)
 LD_opt = $(DEFAULT_CC)
 LDXX_opt = $(DEFAULT_CXX)
