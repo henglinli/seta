@@ -184,4 +184,4 @@ fibonacci_info: libseta.a examples/fibonacci_info
 further_use: libseta.a examples/further_use
 #
 clean:
-	$(RM) libseta.a ${SETA_OBJ} examples/basic examples/fibonacci examples/fibonacci_info examples/fibonacci_info
+	$(RM) libseta.a ${SETA_OBJ} examples/basic examples/fibonacci examples/fibonacci_info examples/fibonacci_info examples/further_use
