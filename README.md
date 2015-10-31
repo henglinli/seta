@@ -1,5 +1,6 @@
 seta
 ====
+[![Build Status](https://drone.io/github.com/henglinli/seta/status.png)](https://drone.io/github.com/henglinli/seta/latest)
 
 Work-stealing scheduler for multithread parallel processing based on Cilk(1)(2).
 Seta is structured as a library, providing the user with a set of functions to explicit
